@@ -1,0 +1,19 @@
+{
+  "name": "token_staking_eclipce",
+  "version": "1.0.0",
+  "description": "This project contains smart contracts for creating an ERC-20 token and a staking contract.  It is based on Solidity and can be deployed on Ethereum or compatible networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.12"
+  }
+}
